@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/hugo"
+    }
+  ],
+  "versions": {
+    "hugo": "0.136.5"   // or "latest", or leave out to use newest
+  }
+}
