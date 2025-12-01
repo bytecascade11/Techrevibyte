@@ -6,6 +6,6 @@
     }
   ],
   "versions": {
-    "hugo": "0.136.5"   // or "latest", or leave out to use newest
+    "hugo": "0.136.5"
   }
 }
