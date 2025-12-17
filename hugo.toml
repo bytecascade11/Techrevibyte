@@ -1,4 +1,4 @@
-baseURL = 'https://techrevibyte.onrender.com/'  # ← Change to your exact Render URL if different
+baseURL = 'https://www.bytecascade.online/'  # ← Change to your exact Render URL if different
 languageCode = 'en-us'
 title = 'ByteCascade'
 
