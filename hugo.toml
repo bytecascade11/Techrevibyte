@@ -1,21 +1,46 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://techrevibyte.onrender.com/'  # ← Change to your exact Render URL if different
 languageCode = 'en-us'
 title = 'ByteCascade'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
+  name = 'News'
+  pageRef = '/news'
+  weight = 20
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 30
+  name = 'Samsung'
+  pageRef = '/samsung'
+  weight = 30
+
+[[menus.main]]
+  name = 'Apple'
+  pageRef = '/apple'
+  weight = 40
+
+[[menus.main]]
+  name = 'Android'
+  pageRef = '/android'
+  weight = 50
+
+[[menus.main]]
+  name = 'Games'
+  pageRef = '/games'
+  weight = 60
+
+[[menus.main]]
+  name = 'AI'
+  pageRef = '/ai'
+  weight = 70
+
+[[menus.main]]
+  name = 'Reviews'
+  pageRef = '/reviews'
+  weight = 80
 
 [module]
   [module.hugoVersion]
