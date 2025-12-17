@@ -8,6 +8,7 @@ topics:
   - samsung
   - flagship-review
   - technology-analysis
+"iphone-17-pro-max-vs-galaxy-z-fold-7.jpg"
 ---
 
 # iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdown
