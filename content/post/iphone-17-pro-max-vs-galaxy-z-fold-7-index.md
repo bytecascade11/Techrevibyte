@@ -9,6 +9,8 @@ topics:
   - flagship-review
   - technology-analysis
 featured_image: "iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
+cover: "iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
+thumbnail: "iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
 ---
 
 # iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdown
@@ -20,6 +22,7 @@ Released months apart—the iPhone launching in September and the Fold debuting 
 This comparison isn’t about crowning a universal winner. It’s about exposing the **real-world trade-offs** when you’re spending this much money.
 
 ---
+![test](/images/iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg)
 
 > **TL;DR**
 >
