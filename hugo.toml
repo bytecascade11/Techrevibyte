@@ -42,6 +42,31 @@ title = 'ByteCascade'
   pageRef = '/reviews'
   weight = 80
 
+[[menus.footer]]
+  name = 'About Us'
+  pageRef = '/about-us'
+  weight = 10
+
+[[menus.footer]]
+  name = 'Privacy Policy'
+  pageRef = '/privacy-policy'
+  weight = 20
+
+[[menus.footer]]
+  name = 'Contact Us'
+  pageRef = '/contact-us'
+  weight = 30
+
+[[menus.footer]]
+  name = 'Terms and Conditions'
+  pageRef = '/terms-and-conditions'
+  weight = 40
+
+[[menus.footer]]
+  name = 'Disclaimer'
+  pageRef = '/disclaimer'
+  weight = 50
+
 [module]
   [module.hugoVersion]
     extended = false
