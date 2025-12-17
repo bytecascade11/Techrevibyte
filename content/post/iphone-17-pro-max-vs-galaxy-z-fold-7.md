@@ -1,7 +1,7 @@
 ---
 title: "iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdown"
 date: 2025-12-17
-image = iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
+image:"iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
 draft: false
 topics:
   - smartphone-comparison
