@@ -71,3 +71,12 @@ title = 'ByteCascade'
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+# === ADD THESE LINES BELOW ===
+[params]
+  description = "ByteCascade: Latest news, reviews, and insights on Samsung, Apple, Android, Games, AI, and tech entertainment."
+
+  facebook = "https://www.facebook.com/profile.php?id=61575510347312"
+  twitter = "ByteCascade1"
+  instagram = "bytecascade1"
+  github = "bytecascade11"
