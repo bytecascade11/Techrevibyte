@@ -1,7 +1,7 @@
 name = 'Pehtheme Hugo'
 license = 'MIT'
-licenselink = 'https://github.com/fauzanmy/pehtheme-hugo/blob/main/LICENSE'
-description = 'Pehtheme Hugo : A minimalist Hugo theme built with TailwindCSS, for efficient performance and minimalism'
+licenselink = 'https://github.com/bytecascade11'
+description = 'ByteCascade Technology delivers the latest tech news, gadget Opinions, Android updates, and in-depth guides to keep you informed and ahead in the digital world.'
 
 # The home page of the theme, where the source can be found
 homepage = 'https://github.com/fauzanmy/pehtheme-hugo'
@@ -16,5 +16,5 @@ features = ['tailwindcss', 'two-column', 'sidebar', 'horizontal-menu']
 # If the theme has multiple authors
 
 [author]
-  name = 'Fauzan My'
-  homepage = 'https://fzn.my.id/'
+  name = 'iSamuel'
+  homepage = 'https://pin.it/78p5ZcbNJ'
