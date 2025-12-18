@@ -1,19 +1,19 @@
 ---
 title: "iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdown"
 date: 2025-12-17
-slug: /iphone-17-galaxy/
-description: As 2025 draws to a close, two smartphones continue to dominate conversations among premium buyers: Apple’s iPhone 17 Pro Max and Samsung’s Galaxy Z Fold 7.
-image: images/iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
-caption: iphone 17 pro max & galaxy z fold 7
-Categories:
- -astronomy
- tags:
+slug: "iphone-17-galaxy"
+description: "As 2025 draws to a close, two smartphones continue to dominate conversations among premium buyers: Apple’s iPhone 17 Pro Max and Samsung’s Galaxy Z Fold 7."
+image: "/images/iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg"
+caption: "iPhone 17 Pro Max & Galaxy Z Fold 7"
+categories:
+  - astronomy
+tags:
   - smartphone-comparison
   - apple
   - samsung
   - flagship-review
   - technology-analysis
-draft:false
+draft: false
 ---
 
 # iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdown
