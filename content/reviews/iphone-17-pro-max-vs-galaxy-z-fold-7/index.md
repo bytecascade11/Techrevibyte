@@ -3,7 +3,6 @@ title: "iPhone 17 Pro Max vs Galaxy Z Fold 7: The Ultimate 2025 Flagship Showdow
 date: 2025-12-17
 slug: "iphone-17-galaxy"
 description: "As 2025 draws to a close, two smartphones continue to dominate conversations among premium buyers: Apple’s iPhone 17 Pro Max and Samsung’s Galaxy Z Fold 7."
-image: iphone-17-pro-max-vs-galaxy-z-fold-7-cover.jpg   # ← This line fixes the top space
 caption: "iPhone 17 Pro Max & Galaxy Z Fold 7"
 categories:
   - reviews
@@ -43,6 +42,7 @@ Pricing immediately sets expectations.
 - **Galaxy Z Fold 7** starts at **$1,999 (256GB)** and exceeds **$2,400** in higher configurations
 
 Apple offers a refined luxury experience at the top end. Samsung asks you to invest in a completely different form factor.
+![iPhone 17 Pro Max vs Galaxy Z Fold 7](featured.jpg)
 
 ---
 
