@@ -13,6 +13,7 @@ tags:
   - samsung
   - flagship-review
   - technology-analysis
+  - feature
 draft: false
 ---
 
@@ -42,7 +43,7 @@ Pricing immediately sets expectations.
 - **Galaxy Z Fold 7** starts at **$1,999 (256GB)** and exceeds **$2,400** in higher configurations
 
 Apple offers a refined luxury experience at the top end. Samsung asks you to invest in a completely different form factor.
-![iPhone 17 Pro Max vs Galaxy Z Fold 7](featured.jpg)
+![iPhone 17 Pro Max vs Galaxy Z Fold 7](feature.jpg)
 
 ---
 
